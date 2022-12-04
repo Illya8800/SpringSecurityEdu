@@ -1,4 +1,4 @@
-package com.coderscampus;
+package com.aimprosoft.hopak;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
